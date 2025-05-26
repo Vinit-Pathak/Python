@@ -31,8 +31,15 @@
 
 # //do...while loop example
 
-while True:
-    num = int(input("Enter a positive no : "))
-    print(num)
-    if not num > 0:
-        break
+# while True:
+#     num = int(input("Enter a positive no : "))
+#     print(num)
+#     if not num > 0:
+#         break
+
+#to add any no. in any position in a list we use Insert function
+
+# marks = [23,43,53]
+# marks.insert(0,34)  0 means position and 34 is value
+# print(marks)
+
